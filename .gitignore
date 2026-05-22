@@ -1,7 +1,12 @@
 .DS_Store
 Thumbs.db
+*.bkp
 fsh-generated/
 input-cache/
+scripts/
 output/
 temp/
 template/
+generate-transaction-bundle.ps1
+transaction-bundle.json
+transaction-bundle-complete.json
