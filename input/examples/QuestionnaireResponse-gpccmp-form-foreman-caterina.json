@@ -6,6 +6,10 @@
       "https://gpccmp.csiro.au/ig/StructureDefinition/GPCCMPQuestionnaireResponse"
     ]
   },
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><article style=\"color-scheme: light; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; margin: 0; color: #1f2328; background-color: #ffffff; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji'; font-size: 16px; line-height: 1.5; word-wrap: break-word;\"><h1 style=\"margin-top: 0; margin-bottom: .67em; font-weight: 600; padding-bottom: .3em; font-size: 2em; border-bottom: 1px solid #d1d9e0b3;\">\n  GP Chronic Condition Management Plan \n  </h1><p style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400;\"><strong style=\"font-weight: 600;\">Patient</strong>: Caterina FOREMAN<br/><strong style=\"font-weight: 600;\">Author</strong>: Dr Peter Primary<br/><strong style=\"font-weight: 600;\">Date Authored</strong>: 25/05/2026 11:39</p><section><h2 style=\"margin-top: 1.5rem; margin-bottom: 1rem; font-weight: 600; line-height: 1.25; padding-bottom: 0.3em; font-size: 1.5em; border-bottom: 1px solid #d1d9e0b3;\">Patient details</h2><section><h3 style=\"margin-top: 1.5rem; margin-bottom: 1rem; font-weight: 600; line-height: 1.25; font-size: 1.25em;\">Consent</h3><p style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400;\"><strong style=\"font-weight: 600;\">Consent given to proceed with plan after discussion of the purpose, benefits, process and costs</strong><br/>Yes</p><p style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400;\"><strong style=\"font-weight: 600;\">Name</strong><br/>Caterina FOREMAN</p><p style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400;\"><strong style=\"font-weight: 600;\">Preferred pronouns</strong><br/>she/her/her/hers/herself</p><p style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400;\"><strong style=\"font-weight: 600;\">Date of birth</strong><br/>24/07/1970</p><p style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400;\"><strong style=\"font-weight: 600;\">Age</strong><br/>55</p><p style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400;\"><strong style=\"font-weight: 600;\">Sex assigned at birth</strong><br/>Female</p><p style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400;\"><strong style=\"font-weight: 600;\">Gender identity</strong><br/>Identifies as female gender</p><p style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400;\"><strong style=\"font-weight: 600;\">Aboriginal and/or Torres Strait Islander status</strong><br/>Neither Aboriginal nor Torres Strait Islander origin</p></section><section><h3 style=\"margin-top: 1.5rem; margin-bottom: 1rem; font-weight: 600; line-height: 1.25; font-size: 1.25em;\">My Aged Care</h3><p style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400;\"><strong style=\"font-weight: 600;\">Registered for My Aged Care</strong><br/>No</p></section><section><h3 style=\"margin-top: 1.5rem; margin-bottom: 1rem; font-weight: 600; line-height: 1.25; font-size: 1.25em;\">National Disability Insurance Scheme</h3><p style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400;\"><strong style=\"font-weight: 600;\">Registered for NDIS</strong><br/>No</p></section><section><h3 style=\"margin-top: 1.5rem; margin-bottom: 1rem; font-weight: 600; line-height: 1.25; font-size: 1.25em;\">Medicare card number</h3><table style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400; border-spacing: 0; border-collapse: collapse; display: block; width: max-content; max-width: 100%; overflow: auto; font-variant: tabular-nums;\"><thead><tr style=\"background-color: #f6f8fa; border-top: 1px solid #d1d9e0b3;\"><th style=\"padding: 6px 13px; border: 1px solid #d1d9e0; font-weight: 600;\">Number</th><th style=\"padding: 6px 13px; border: 1px solid #d1d9e0; font-weight: 600;\">Reference number</th><th style=\"padding: 6px 13px; border: 1px solid #d1d9e0; font-weight: 600;\">Expiry</th></tr></thead><tbody><tr style=\"background-color: #fff; border-top: 1px solid #d1d9e0b3;\"><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">3951333701</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">1</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">2028-08</td></tr></tbody></table></section><section><h3 style=\"margin-top: 1.5rem; margin-bottom: 1rem; font-weight: 600; line-height: 1.25; font-size: 1.25em;\">Contact information</h3><div style=\"margin-bottom: 0.5em;\"><strong style=\"font-weight: 600;\">Home phone</strong></div><ul style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400; padding-left: 2em;\"><li>0370109077</li></ul><div style=\"margin-bottom: 0.5em;\"><strong style=\"font-weight: 600;\">Mobile phone</strong></div><ul style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400; padding-left: 2em;\"><li>0491576801</li></ul><div style=\"margin-bottom: 0.5em;\"><strong style=\"font-weight: 600;\">Email</strong></div><ul style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400; padding-left: 2em;\"><li>caterina.foreman@my-own-personal-domain.com</li></ul><section><h4 style=\"margin-top: 1.5rem; margin-bottom: 1rem; font-weight: 600; line-height: 1.25; font-size: 1em;\">Home address</h4><section><h4 style=\"margin-top: 1.5rem; margin-bottom: 1rem; font-weight: 600; line-height: 1.25; font-size: 1em;\">Home address</h4><table style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400; border-spacing: 0; border-collapse: collapse; display: block; width: max-content; max-width: 100%; overflow: auto; font-variant: tabular-nums;\"><thead><tr style=\"background-color: #f6f8fa; border-top: 1px solid #d1d9e0b3;\"><th style=\"padding: 6px 13px; border: 1px solid #d1d9e0; font-weight: 600;\">Street address</th><th style=\"padding: 6px 13px; border: 1px solid #d1d9e0; font-weight: 600;\">City</th><th style=\"padding: 6px 13px; border: 1px solid #d1d9e0; font-weight: 600;\">State</th><th style=\"padding: 6px 13px; border: 1px solid #d1d9e0; font-weight: 600;\">Postcode</th></tr></thead><tbody><tr style=\"background-color: #fff; border-top: 1px solid #d1d9e0b3;\"><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">149 Farmer Cnr</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">Sunshine</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">Victoria</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">3020</td></tr></tbody></table></section></section></section><section><h3 style=\"margin-top: 1.5rem; margin-bottom: 1rem; font-weight: 600; line-height: 1.25; font-size: 1.25em;\">Carers and key contacts</h3><table style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400; border-spacing: 0; border-collapse: collapse; display: block; width: max-content; max-width: 100%; overflow: auto; font-variant: tabular-nums;\"><thead><tr style=\"background-color: #f6f8fa; border-top: 1px solid #d1d9e0b3;\"><th style=\"padding: 6px 13px; border: 1px solid #d1d9e0; font-weight: 600;\">Preferred contact</th><th style=\"padding: 6px 13px; border: 1px solid #d1d9e0; font-weight: 600;\">Role</th><th style=\"padding: 6px 13px; border: 1px solid #d1d9e0; font-weight: 600;\">Name</th><th style=\"padding: 6px 13px; border: 1px solid #d1d9e0; font-weight: 600;\">Phone</th><th style=\"padding: 6px 13px; border: 1px solid #d1d9e0; font-weight: 600;\">Email</th><th style=\"padding: 6px 13px; border: 1px solid #d1d9e0; font-weight: 600;\">Relationship to patient</th><th style=\"padding: 6px 13px; border: 1px solid #d1d9e0; font-weight: 600;\">Present at appointment</th></tr></thead><tbody><tr style=\"background-color: #fff; border-top: 1px solid #d1d9e0b3;\"><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">Yes</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">Contact person</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">Mia LEANNE BANKS</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">0270107520</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\"/><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\"/><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\"/></tr><tr style=\"background-color: #fff; border-top: 1px solid #d1d9e0b3;\"><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\"/><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">Emergency Contact</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">Heather MACKAY</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">0370108075</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\"/><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\"/><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\"/></tr></tbody></table></section></section><section><h2 style=\"margin-top: 1.5rem; margin-bottom: 1rem; font-weight: 600; line-height: 1.25; padding-bottom: 0.3em; font-size: 1.5em; border-bottom: 1px solid #d1d9e0b3;\">Practitioner details</h2><p style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400;\"><strong style=\"font-weight: 600;\">Name</strong><br/>Peter Primary</p><div style=\"margin-bottom: 0.5em;\"><strong style=\"font-weight: 600;\">Phone</strong></div><ul style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400; padding-left: 2em;\"><li>(08) 7010 5556</li></ul><div style=\"margin-bottom: 0.5em;\"><strong style=\"font-weight: 600;\">Email</strong></div><ul style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400; padding-left: 2em;\"><li>PPP@example.org</li></ul><div style=\"margin-bottom: 0.5em;\"><strong style=\"font-weight: 600;\">Medicare provider number</strong></div><ul style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400; padding-left: 2em;\"><li>2426621B</li></ul><section><h3 style=\"margin-top: 1.5rem; margin-bottom: 1rem; font-weight: 600; line-height: 1.25; font-size: 1.25em;\">Clinic details</h3><p style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400;\"><strong style=\"font-weight: 600;\">Name</strong><br/>Quinninup Medical Clinic</p><section><h4 style=\"margin-top: 1.5rem; margin-bottom: 1rem; font-weight: 600; line-height: 1.25; font-size: 1em;\">Address</h4><p style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400;\"><strong style=\"font-weight: 600;\">Street address</strong><br/>24 Grande Pl</p><p style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400;\"><strong style=\"font-weight: 600;\">City</strong><br/>Quinninup</p><p style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400;\"><strong style=\"font-weight: 600;\">State</strong><br/>Western Australia</p><p style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400;\"><strong style=\"font-weight: 600;\">Postcode</strong><br/>6258</p></section></section></section><section><h2 style=\"margin-top: 1.5rem; margin-bottom: 1rem; font-weight: 600; line-height: 1.25; padding-bottom: 0.3em; font-size: 1.5em; border-bottom: 1px solid #d1d9e0b3;\">Clinical details</h2><section><h3 style=\"margin-top: 1.5rem; margin-bottom: 1rem; font-weight: 600; line-height: 1.25; font-size: 1.25em;\">Problems/Diagnoses</h3><section><h4 style=\"margin-top: 1.5rem; margin-bottom: 1rem; font-weight: 600; line-height: 1.25; font-size: 1em;\">Recorded problems/diagnoses</h4><table style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400; border-spacing: 0; border-collapse: collapse; display: block; width: max-content; max-width: 100%; overflow: auto; font-variant: tabular-nums;\"><thead><tr style=\"background-color: #f6f8fa; border-top: 1px solid #d1d9e0b3;\"><th style=\"padding: 6px 13px; border: 1px solid #d1d9e0; font-weight: 600;\">Condition</th><th style=\"padding: 6px 13px; border: 1px solid #d1d9e0; font-weight: 600;\">Clinical status</th><th style=\"padding: 6px 13px; border: 1px solid #d1d9e0; font-weight: 600;\">Onset date</th><th style=\"padding: 6px 13px; border: 1px solid #d1d9e0; font-weight: 600;\">Abatement date</th></tr></thead><tbody><tr style=\"background-color: #fff; border-top: 1px solid #d1d9e0b3;\"><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">Chronic lower back pain</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">Active</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">01/01/2021</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\"/></tr><tr style=\"background-color: #fff; border-top: 1px solid #d1d9e0b3;\"><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">Gastro-oesophageal reflux disease</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">Active</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">01/08/2013</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\"/></tr></tbody></table></section><section><h4 style=\"margin-top: 1.5rem; margin-bottom: 1rem; font-weight: 600; line-height: 1.25; font-size: 1em;\">New problems/diagnoses</h4><table style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400; border-spacing: 0; border-collapse: collapse; display: block; width: max-content; max-width: 100%; overflow: auto; font-variant: tabular-nums;\"><thead><tr style=\"background-color: #f6f8fa; border-top: 1px solid #d1d9e0b3;\"><th style=\"padding: 6px 13px; border: 1px solid #d1d9e0; font-weight: 600;\">Condition</th><th style=\"padding: 6px 13px; border: 1px solid #d1d9e0; font-weight: 600;\">Onset date</th><th style=\"padding: 6px 13px; border: 1px solid #d1d9e0; font-weight: 600;\">Comment</th></tr></thead><tbody><tr style=\"background-color: #fff; border-top: 1px solid #d1d9e0b3;\"><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">Uncontrolled type 2 diabetes</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">25/01/2026</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\"/></tr><tr style=\"background-color: #fff; border-top: 1px solid #d1d9e0b3;\"><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">Peripheral neuropathy due to diabetes</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">20/02/2026</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\"/></tr><tr style=\"background-color: #fff; border-top: 1px solid #d1d9e0b3;\"><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">Overweight</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">25/11/2025</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\"/></tr></tbody></table></section></section><section><h3 style=\"margin-top: 1.5rem; margin-bottom: 1rem; font-weight: 600; line-height: 1.25; font-size: 1.25em;\">Adverse reaction risks</h3><section><h4 style=\"margin-top: 1.5rem; margin-bottom: 1rem; font-weight: 600; line-height: 1.25; font-size: 1em;\">Recorded adverse reaction risks</h4><table style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400; border-spacing: 0; border-collapse: collapse; display: block; width: max-content; max-width: 100%; overflow: auto; font-variant: tabular-nums;\"><thead><tr style=\"background-color: #f6f8fa; border-top: 1px solid #d1d9e0b3;\"><th style=\"padding: 6px 13px; border: 1px solid #d1d9e0; font-weight: 600;\">Substance</th><th style=\"padding: 6px 13px; border: 1px solid #d1d9e0; font-weight: 600;\">Status</th><th style=\"padding: 6px 13px; border: 1px solid #d1d9e0; font-weight: 600;\">Manifestation</th><th style=\"padding: 6px 13px; border: 1px solid #d1d9e0; font-weight: 600;\">Comment</th></tr></thead><tbody><tr style=\"background-color: #fff; border-top: 1px solid #d1d9e0b3;\"><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">Latex</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">Active</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">Rash</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">Has reacted soon after exposure as well as a delayed reaction to latex, with a rash appearing 24 hours after exposure.</td></tr></tbody></table></section></section><section><h3 style=\"margin-top: 1.5rem; margin-bottom: 1rem; font-weight: 600; line-height: 1.25; font-size: 1.25em;\">Medications (current)</h3><section><h4 style=\"margin-top: 1.5rem; margin-bottom: 1rem; font-weight: 600; line-height: 1.25; font-size: 1em;\">Recorded medications</h4><table style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400; border-spacing: 0; border-collapse: collapse; display: block; width: max-content; max-width: 100%; overflow: auto; font-variant: tabular-nums;\"><thead><tr style=\"background-color: #f6f8fa; border-top: 1px solid #d1d9e0b3;\"><th style=\"padding: 6px 13px; border: 1px solid #d1d9e0; font-weight: 600;\">Medication</th><th style=\"padding: 6px 13px; border: 1px solid #d1d9e0; font-weight: 600;\">Status</th><th style=\"padding: 6px 13px; border: 1px solid #d1d9e0; font-weight: 600;\">Dosage</th><th style=\"padding: 6px 13px; border: 1px solid #d1d9e0; font-weight: 600;\">Indication</th><th style=\"padding: 6px 13px; border: 1px solid #d1d9e0; font-weight: 600;\">Comment</th></tr></thead><tbody><tr style=\"background-color: #fff; border-top: 1px solid #d1d9e0b3;\"><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">Panadol Osteo 665 mg modified release tablet</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">Active</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">2 tabs PRN/TDS</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">Chronic lower back pain</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\"/></tr><tr style=\"background-color: #fff; border-top: 1px solid #d1d9e0b3;\"><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">Esomeprazole 20 mg enteric capsule</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">Active</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">1 tab daily</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">Gastro-oesophageal reflux disease</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">Gastroscopy 2013 - mild reflux esophagitis, H pylori negative</td></tr></tbody></table></section><section><h4 style=\"margin-top: 1.5rem; margin-bottom: 1rem; font-weight: 600; line-height: 1.25; font-size: 1em;\">New medications</h4><table style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400; border-spacing: 0; border-collapse: collapse; display: block; width: max-content; max-width: 100%; overflow: auto; font-variant: tabular-nums;\"><thead><tr style=\"background-color: #f6f8fa; border-top: 1px solid #d1d9e0b3;\"><th style=\"padding: 6px 13px; border: 1px solid #d1d9e0; font-weight: 600;\">Medication</th><th style=\"padding: 6px 13px; border: 1px solid #d1d9e0; font-weight: 600;\">Dosage</th><th style=\"padding: 6px 13px; border: 1px solid #d1d9e0; font-weight: 600;\">Indication</th><th style=\"padding: 6px 13px; border: 1px solid #d1d9e0; font-weight: 600;\">Comment</th></tr></thead><tbody><tr style=\"background-color: #fff; border-top: 1px solid #d1d9e0b3;\"><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">Metformin hydrochloride 500 mg tablet</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">1 tab BD</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">Uncontrolled type 2 diabetes</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\"/></tr><tr style=\"background-color: #fff; border-top: 1px solid #d1d9e0b3;\"><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">Fish oil</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">2 caps daily</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\"/><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">Self-initiated for heart health</td></tr></tbody></table></section></section><section><h3 style=\"margin-top: 1.5rem; margin-bottom: 1rem; font-weight: 600; line-height: 1.25; font-size: 1.25em;\">Observations</h3><section><h4 style=\"margin-top: 1.5rem; margin-bottom: 1rem; font-weight: 600; line-height: 1.25; font-size: 1em;\">Observations</h4><section><h4 style=\"margin-top: 1.5rem; margin-bottom: 1rem; font-weight: 600; line-height: 1.25; font-size: 1em;\">Height</h4><p style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400;\"><strong style=\"font-weight: 600;\">New result</strong><br/>165</p><p style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400;\"><strong style=\"font-weight: 600;\">New result date</strong><br/>25/05/2026</p></section><section><h4 style=\"margin-top: 1.5rem; margin-bottom: 1rem; font-weight: 600; line-height: 1.25; font-size: 1em;\">Weight</h4><p style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400;\"><strong style=\"font-weight: 600;\">New result</strong><br/>75.2</p><p style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400;\"><strong style=\"font-weight: 600;\">New result date</strong><br/>25/05/2026</p></section><section><h4 style=\"margin-top: 1.5rem; margin-bottom: 1rem; font-weight: 600; line-height: 1.25; font-size: 1em;\">BMI (calculated)</h4><p style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400;\"><strong style=\"font-weight: 600;\">New result</strong><br/>27.6</p></section><section><h4 style=\"margin-top: 1.5rem; margin-bottom: 1rem; font-weight: 600; line-height: 1.25; font-size: 1em;\">Waist circumference</h4><p style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400;\"><strong style=\"font-weight: 600;\">New result</strong><br/>82.5</p><p style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400;\"><strong style=\"font-weight: 600;\">New result date</strong><br/>25/05/2026</p></section><section><h4 style=\"margin-top: 1.5rem; margin-bottom: 1rem; font-weight: 600; line-height: 1.25; font-size: 1em;\">Pulse rate</h4><p style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400;\"><strong style=\"font-weight: 600;\">New result</strong><br/>76</p><p style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400;\"><strong style=\"font-weight: 600;\">New result date</strong><br/>25/05/2026</p></section><section><h4 style=\"margin-top: 1.5rem; margin-bottom: 1rem; font-weight: 600; line-height: 1.25; font-size: 1em;\">Pulse rhythm</h4><p style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400;\"><strong style=\"font-weight: 600;\">New result</strong><br/>Pulse regular</p><p style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400;\"><strong style=\"font-weight: 600;\">New result date</strong><br/>25/05/2026</p></section><section><h4 style=\"margin-top: 1.5rem; margin-bottom: 1rem; font-weight: 600; line-height: 1.25; font-size: 1em;\">Oxygen saturation</h4><p style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400;\"><strong style=\"font-weight: 600;\">New result</strong><br/>98</p><p style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400;\"><strong style=\"font-weight: 600;\">New result date</strong><br/>25/05/2026</p></section></section><section><h4 style=\"margin-top: 1.5rem; margin-bottom: 1rem; font-weight: 600; line-height: 1.25; font-size: 1em;\">Blood pressure</h4><section><h4 style=\"margin-top: 1.5rem; margin-bottom: 1rem; font-weight: 600; line-height: 1.25; font-size: 1em;\">Blood pressure</h4><p style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400;\"><strong style=\"font-weight: 600;\">Systolic</strong><br/>130</p><p style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400;\"><strong style=\"font-weight: 600;\">Diastolic</strong><br/>72</p><p style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400;\"><strong style=\"font-weight: 600;\">Date performed</strong><br/>25/05/2026</p></section></section><section><h4 style=\"margin-top: 1.5rem; margin-bottom: 1rem; font-weight: 600; line-height: 1.25; font-size: 1em;\">Substance use</h4><section><h4 style=\"margin-top: 1.5rem; margin-bottom: 1rem; font-weight: 600; line-height: 1.25; font-size: 1em;\">Smoking status</h4><p style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400;\"><strong style=\"font-weight: 600;\">New status date</strong><br/></p><p style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400;\"><strong style=\"font-weight: 600;\">Comment</strong><br/>20 cigarettes per day since 17yo</p></section><section><h4 style=\"margin-top: 1.5rem; margin-bottom: 1rem; font-weight: 600; line-height: 1.25; font-size: 1em;\">Alcohol consumption status</h4><p style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400;\"><strong style=\"font-weight: 600;\">New status date</strong><br/></p><p style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400;\"><strong style=\"font-weight: 600;\">Comment</strong><br/>2 drinks, 2 days per week (on weekends)</p><p style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400;\"><strong style=\"font-weight: 600;\">Additional information</strong><br/>Family history: Mother - diabetes, stroke; Father - heart attack, depression; Paternal grandmother - breast cancer\nWork: Receptionist in building business</p></section></section></section></section><section><h2 style=\"margin-top: 1.5rem; margin-bottom: 1rem; font-weight: 600; line-height: 1.25; padding-bottom: 0.3em; font-size: 1.5em; border-bottom: 1px solid #d1d9e0b3;\">Plan</h2><p style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400;\"><strong style=\"font-weight: 600;\">New plan or a review of an existing plan?</strong><br/>New</p><p style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400;\"><strong style=\"font-weight: 600;\">Incomplete draft plan already exists?</strong><br/>Yes</p><section><h3 style=\"margin-top: 1.5rem; margin-bottom: 1rem; font-weight: 600; line-height: 1.25; font-size: 1.25em;\">Conditions addressed</h3><table style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400; border-spacing: 0; border-collapse: collapse; display: block; width: max-content; max-width: 100%; overflow: auto; font-variant: tabular-nums;\"><thead><tr style=\"background-color: #f6f8fa; border-top: 1px solid #d1d9e0b3;\"><th style=\"padding: 6px 13px; border: 1px solid #d1d9e0; font-weight: 600;\">Condition</th><th style=\"padding: 6px 13px; border: 1px solid #d1d9e0; font-weight: 600;\">Onset date</th><th style=\"padding: 6px 13px; border: 1px solid #d1d9e0; font-weight: 600;\">Comments</th></tr></thead><tbody><tr style=\"background-color: #fff; border-top: 1px solid #d1d9e0b3;\"><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">Uncontrolled type 2 diabetes</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">25/01/2026</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\"/></tr><tr style=\"background-color: #fff; border-top: 1px solid #d1d9e0b3;\"><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">Chronic lower back pain</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">01/01/2021</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\"/></tr><tr style=\"background-color: #fff; border-top: 1px solid #d1d9e0b3;\"><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">Gastro-oesophageal reflux disease</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">01/08/2013</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\"/></tr><tr style=\"background-color: #fff; border-top: 1px solid #d1d9e0b3;\"><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">Overweight</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">25/11/2025</td><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\"/></tr></tbody></table></section><section><h3 style=\"margin-top: 1.5rem; margin-bottom: 1rem; font-weight: 600; line-height: 1.25; font-size: 1.25em;\">Goals and tasks</h3><table style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400; border-spacing: 0; border-collapse: collapse; display: block; width: max-content; max-width: 100%; overflow: auto; font-variant: tabular-nums;\"><thead><tr style=\"background-color: #f6f8fa; border-top: 1px solid #d1d9e0b3;\"><th style=\"padding: 6px 13px; border: 1px solid #d1d9e0; font-weight: 600;\">Problems/Needs</th><th style=\"padding: 6px 13px; border: 1px solid #d1d9e0; font-weight: 600;\">Goal setting</th><th style=\"padding: 6px 13px; border: 1px solid #d1d9e0; font-weight: 600;\">Interventions and actions</th><th style=\"padding: 6px 13px; border: 1px solid #d1d9e0; font-weight: 600;\">Services and treatments</th></tr></thead><tbody><tr style=\"background-color: #fff; border-top: 1px solid #d1d9e0b3;\"><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">Uncontrolled type 2 diabetes</td><td colspan=\"1\" style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">Nested repeat groups not supported in narrative</td><td colspan=\"7\" style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">Nested repeat groups not supported in narrative</td><td colspan=\"9\" style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">Nested repeat groups not supported in narrative</td></tr><tr style=\"background-color: #fff; border-top: 1px solid #d1d9e0b3;\"><td style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">Uncontrolled type 2 diabetes</td><td colspan=\"2\" style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">Nested repeat groups not supported in narrative</td><td colspan=\"7\" style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">Nested repeat groups not supported in narrative</td><td colspan=\"4\" style=\"padding: 6px 13px; border: 1px solid #d1d9e0;\">Nested repeat groups not supported in narrative</td></tr></tbody></table></section><section><h3 style=\"margin-top: 1.5rem; margin-bottom: 1rem; font-weight: 600; line-height: 1.25; font-size: 1.25em;\">Completion</h3><p style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400;\"><strong style=\"font-weight: 600;\">Consent given for sharing of information with relevant healthcare providers</strong><br/>Yes</p><section><h4 style=\"margin-top: 1.5rem; margin-bottom: 1rem; font-weight: 600; line-height: 1.25; font-size: 1em;\">Review</h4><p style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400;\"><strong style=\"font-weight: 600;\">Appointment status</strong><br/>Proposed</p><p style=\"margin-top: 0; margin-bottom: 1rem; font-weight: 400;\"><strong style=\"font-weight: 600;\">Date</strong><br/>20/05/2027</p></section></section></section></article></div>"
+  },
   "questionnaire": "http://www.health.gov.au/assessments/GPChronicConditionManagementPlan|0.1.0",
   "_questionnaire": {
     "extension": [
@@ -21,7 +25,7 @@
     "type": "Patient",
     "display": "Caterina FOREMAN"
   },
-  "authored": "2026-05-20T12:15:32+10:00",
+  "authored": "2026-05-25T14:50:52+10:00",
   "author": {
     "reference": "Practitioner/primary-peter",
     "type": "Practitioner",
@@ -290,15 +294,6 @@
               "text": "Carers and key contacts",
               "item": [
                 {
-                  "linkId": "patient-contacts-preferred",
-                  "text": "Preferred contact",
-                  "answer": [
-                    {
-                      "valueBoolean": true
-                    }
-                  ]
-                },
-                {
                   "linkId": "patient-contacts-role",
                   "text": "Role",
                   "answer": [
@@ -398,7 +393,7 @@
               "text": "Name",
               "answer": [
                 {
-                  "id": "practitioner-name-calculatedExpression-I2HktvbPF4s_bsI_ikeUU",
+                  "id": "practitioner-name-calculatedExpression-8D3FBElCUrLv1_eC5UV27",
                   "valueString": "Peter Primary"
                 }
               ]
@@ -408,7 +403,7 @@
               "text": "Phone",
               "answer": [
                 {
-                  "id": "practitioner-phone-calculatedExpression-0CFhQF7S2MZIaNMI8KHDi",
+                  "id": "practitioner-phone-calculatedExpression-pXL5hXh_jQ7qb7uht3Tnc",
                   "valueString": "(08) 7010 5556"
                 }
               ]
@@ -418,7 +413,7 @@
               "text": "Email",
               "answer": [
                 {
-                  "id": "practitioner-email-calculatedExpression-ijRlMIFxoLejBqR7WGycd",
+                  "id": "practitioner-email-calculatedExpression-iKT3aoXLu-MAQjlKbIJav",
                   "valueString": "PPP@example.org"
                 }
               ]
@@ -428,7 +423,7 @@
               "text": "Medicare provider number",
               "answer": [
                 {
-                  "id": "practitioner-medicareprovidernumber-calculatedExpression-kX3dpnd7_y0B0g0qByM1g",
+                  "id": "practitioner-medicareprovidernumber-calculatedExpression-NbVRyrfUcRerVxYxg8kS7",
                   "valueString": "2426621B"
                 }
               ]
@@ -442,7 +437,7 @@
                   "text": "Name",
                   "answer": [
                     {
-                      "id": "practitioner-clinicdetails-name-calculatedExpression-Dnx0rTsXIjckS_lOjj4Mo"
+                      "valueString": "Quinninup Medical Clinic"
                     }
                   ]
                 },
@@ -801,6 +796,60 @@
                         {
                           "valueCoding": {
                             "system": "http://snomed.info/sct",
+                            "code": "5848011000036106",
+                            "display": "Panadol Osteo 665 mg modified release tablet"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "linkId": "clinicaldetails-medications-recordedmedications-status",
+                      "text": "Status",
+                      "answer": [
+                        {
+                          "valueCoding": {
+                            "system": "http://hl7.org/fhir/CodeSystem/medication-statement-status",
+                            "code": "active",
+                            "display": "Active"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "linkId": "clinicaldetails-medications-recordedmedications-dosage",
+                      "text": "Dosage",
+                      "answer": [
+                        {
+                          "valueString": "2 tabs PRN/TDS"
+                        }
+                      ]
+                    },
+                    {
+                      "linkId": "clinicaldetails-medications-recordedmedications-indication",
+                      "text": "Indication",
+                      "answer": [
+                        {
+                          "valueCoding": {
+                            "system": "http://snomed.info/sct",
+                            "code": "278860009",
+                            "display": "Chronic lower back pain"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "linkId": "clinicaldetails-medications-recordedmedications",
+                  "text": "Recorded medications",
+                  "item": [
+                    {
+                      "linkId": "clinicaldetails-medications-recordedmedications-medication",
+                      "text": "Medication",
+                      "answer": [
+                        {
+                          "valueCoding": {
+                            "system": "http://snomed.info/sct",
                             "code": "682641000168107",
                             "display": "Esomeprazole 20 mg enteric capsule"
                           }
@@ -976,8 +1025,8 @@
                           "text": "New result date",
                           "answer": [
                             {
-                              "id": "clinicaldetails-observations-maingrid-height-newresultdate-calculatedExpression-G-PqrbqFmUoSDIvKwtvQk",
-                              "valueDate": "2026-05-20"
+                              "id": "clinicaldetails-observations-maingrid-height-newresultdate-calculatedExpression-xtMXwEIrATvoIiIBzaan0",
+                              "valueDate": "2026-05-25"
                             }
                           ]
                         }
@@ -1017,8 +1066,8 @@
                           "text": "New result date",
                           "answer": [
                             {
-                              "id": "clinicaldetails-observations-maingrid-weight-newresultdate-calculatedExpression-E2KCeSndhsAMpBRkhItaY",
-                              "valueDate": "2026-05-20"
+                              "id": "clinicaldetails-observations-maingrid-weight-newresultdate-calculatedExpression-nIgP9dQYLCz42G-GvOZOQ",
+                              "valueDate": "2026-05-25"
                             }
                           ]
                         }
@@ -1041,7 +1090,7 @@
                           "text": "New result",
                           "answer": [
                             {
-                              "id": "clinicaldetails-observations-maingrid-bmi-newresultvalue-calculatedExpression-2zn3_1PhveAMsnb8XzZWs",
+                              "id": "clinicaldetails-observations-maingrid-bmi-newresultvalue-calculatedExpression-FY_-GLEI4pIod2c5bStCC",
                               "valueDecimal": 27.6
                             }
                           ]
@@ -1082,8 +1131,8 @@
                           "text": "New result date",
                           "answer": [
                             {
-                              "id": "clinicaldetails-observations-maingrid-waistcircumference-newdate-calculatedExpression-_yNIOBArs6YKsNYyrNcDp",
-                              "valueDate": "2026-05-20"
+                              "id": "clinicaldetails-observations-maingrid-waistcircumference-newdate-calculatedExpression-Eiu7YYZCzG8sWG9-wfNAW",
+                              "valueDate": "2026-05-25"
                             }
                           ]
                         }
@@ -1123,8 +1172,8 @@
                           "text": "New result date",
                           "answer": [
                             {
-                              "id": "clinicaldetails-observations-maingrid-pulserate-newresultdate-calculatedExpression-_MMSXW9RWMhNTsVe8AHhl",
-                              "valueDate": "2026-05-20"
+                              "id": "clinicaldetails-observations-maingrid-pulserate-newresultdate-calculatedExpression-34UvegIOIDUKnmkUrUZq8",
+                              "valueDate": "2026-05-25"
                             }
                           ]
                         }
@@ -1172,8 +1221,8 @@
                           "text": "New result date",
                           "answer": [
                             {
-                              "id": "clinicaldetails-observations-maingrid-pulserhythm-newresultdate-calculatedExpression-3tdL2oiNxQNlg6xTXXH5l",
-                              "valueDate": "2026-05-20"
+                              "id": "clinicaldetails-observations-maingrid-pulserhythm-newresultdate-calculatedExpression-UWNBrqxvJKv6nvG1CeBjD",
+                              "valueDate": "2026-05-25"
                             }
                           ]
                         }
@@ -1213,8 +1262,8 @@
                           "text": "New result date",
                           "answer": [
                             {
-                              "id": "clinicaldetails-observations-maingrid-oxygensaturation-newresultdate-calculatedExpression-ZFK-ib6Nx-gVO0cip0gNl",
-                              "valueDate": "2026-05-20"
+                              "id": "clinicaldetails-observations-maingrid-oxygensaturation-newresultdate-calculatedExpression-Gz6fyQXZnbuBhxR1MlKOL",
+                              "valueDate": "2026-05-25"
                             }
                           ]
                         }
@@ -1277,8 +1326,8 @@
                           "text": "Date performed",
                           "answer": [
                             {
-                              "id": "clinicaldetails-observations-bpgrid-bp-newresultdate-calculatedExpression-hSUs5NwKSciQM8avwk8Mi",
-                              "valueDate": "2026-05-20"
+                              "id": "clinicaldetails-observations-bpgrid-bp-newresultdate-calculatedExpression-Y28BYlwCNoGPjqR8n-YyI",
+                              "valueDate": "2026-05-25"
                             }
                           ]
                         }
@@ -1319,7 +1368,7 @@
                           "text": "New status date",
                           "answer": [
                             {
-                              "id": "clinicaldetails-observations-substanceusegrid-smokingstatus-newresultdate-calculatedExpression-Sj-bt67-UWdSGgQtBFAin"
+                              "id": "clinicaldetails-observations-substanceusegrid-smokingstatus-newresultdate-calculatedExpression-ZASuZR1cTqqiPw8-IhRYE"
                             }
                           ]
                         },
@@ -1363,7 +1412,7 @@
                           "text": "New status date",
                           "answer": [
                             {
-                              "id": "clinicaldetails-observations-substanceusegrid-alcoholstatus-newresultdate-calculatedExpression-9auxhCT4j2_56XfCgVGVn"
+                              "id": "clinicaldetails-observations-substanceusegrid-alcoholstatus-newresultdate-calculatedExpression-IQbl4AX0YqnJo7DiwuVCr"
                             }
                           ]
                         },
@@ -1656,9 +1705,9 @@
                       "answer": [
                         {
                           "valueCoding": {
-                            "system": "http://hl7.org/fhir/resource-status",
-                            "code": "active",
-                            "display": "active"
+                            "system": "http://hl7.org/fhir/care-plan-activity-status",
+                            "code": "not-started",
+                            "display": "Planned"
                           }
                         }
                       ]
@@ -1706,9 +1755,9 @@
                       "answer": [
                         {
                           "valueCoding": {
-                            "system": "http://hl7.org/fhir/resource-status",
-                            "code": "active",
-                            "display": "active"
+                            "system": "http://hl7.org/fhir/care-plan-activity-status",
+                            "code": "not-started",
+                            "display": "Planned"
                           }
                         }
                       ]
@@ -1752,9 +1801,9 @@
                       "answer": [
                         {
                           "valueCoding": {
-                            "system": "http://hl7.org/fhir/resource-status",
-                            "code": "active",
-                            "display": "active"
+                            "system": "http://hl7.org/fhir/care-plan-activity-status",
+                            "code": "not-started",
+                            "display": "Planned"
                           }
                         }
                       ]
@@ -1807,9 +1856,9 @@
                       "answer": [
                         {
                           "valueCoding": {
-                            "system": "http://hl7.org/fhir/resource-status",
-                            "code": "active",
-                            "display": "active"
+                            "system": "http://hl7.org/fhir/care-plan-activity-status",
+                            "code": "not-started",
+                            "display": "Planned"
                           }
                         }
                       ]
@@ -1862,9 +1911,9 @@
                       "answer": [
                         {
                           "valueCoding": {
-                            "system": "http://hl7.org/fhir/resource-status",
-                            "code": "active",
-                            "display": "active"
+                            "system": "http://hl7.org/fhir/care-plan-activity-status",
+                            "code": "not-started",
+                            "display": "Planned"
                           }
                         }
                       ]
@@ -1921,9 +1970,9 @@
                       "answer": [
                         {
                           "valueCoding": {
-                            "system": "http://hl7.org/fhir/resource-status",
-                            "code": "active",
-                            "display": "active"
+                            "system": "http://hl7.org/fhir/care-plan-activity-status",
+                            "code": "not-started",
+                            "display": "Planned"
                           }
                         }
                       ]
@@ -1967,9 +2016,9 @@
                       "answer": [
                         {
                           "valueCoding": {
-                            "system": "http://hl7.org/fhir/resource-status",
-                            "code": "active",
-                            "display": "active"
+                            "system": "http://hl7.org/fhir/care-plan-activity-status",
+                            "code": "not-started",
+                            "display": "Planned"
                           }
                         }
                       ]
@@ -2548,9 +2597,9 @@
                       "answer": [
                         {
                           "valueCoding": {
-                            "system": "http://hl7.org/fhir/resource-status",
-                            "code": "active",
-                            "display": "active"
+                            "system": "http://hl7.org/fhir/care-plan-activity-status",
+                            "code": "not-started",
+                            "display": "Planned"
                           }
                         }
                       ]
@@ -2594,9 +2643,9 @@
                       "answer": [
                         {
                           "valueCoding": {
-                            "system": "http://hl7.org/fhir/resource-status",
-                            "code": "active",
-                            "display": "active"
+                            "system": "http://hl7.org/fhir/care-plan-activity-status",
+                            "code": "not-started",
+                            "display": "Planned"
                           }
                         }
                       ]
@@ -2640,9 +2689,9 @@
                       "answer": [
                         {
                           "valueCoding": {
-                            "system": "http://hl7.org/fhir/resource-status",
-                            "code": "active",
-                            "display": "active"
+                            "system": "http://hl7.org/fhir/care-plan-activity-status",
+                            "code": "not-started",
+                            "display": "Planned"
                           }
                         }
                       ]
@@ -2686,9 +2735,9 @@
                       "answer": [
                         {
                           "valueCoding": {
-                            "system": "http://hl7.org/fhir/resource-status",
-                            "code": "active",
-                            "display": "active"
+                            "system": "http://hl7.org/fhir/care-plan-activity-status",
+                            "code": "not-started",
+                            "display": "Planned"
                           }
                         }
                       ]
@@ -2732,9 +2781,9 @@
                       "answer": [
                         {
                           "valueCoding": {
-                            "system": "http://hl7.org/fhir/resource-status",
-                            "code": "active",
-                            "display": "active"
+                            "system": "http://hl7.org/fhir/care-plan-activity-status",
+                            "code": "not-started",
+                            "display": "Planned"
                           }
                         }
                       ]
@@ -2778,9 +2827,9 @@
                       "answer": [
                         {
                           "valueCoding": {
-                            "system": "http://hl7.org/fhir/resource-status",
-                            "code": "active",
-                            "display": "active"
+                            "system": "http://hl7.org/fhir/care-plan-activity-status",
+                            "code": "not-started",
+                            "display": "Planned"
                           }
                         }
                       ]
@@ -2824,9 +2873,9 @@
                       "answer": [
                         {
                           "valueCoding": {
-                            "system": "http://hl7.org/fhir/resource-status",
-                            "code": "active",
-                            "display": "active"
+                            "system": "http://hl7.org/fhir/care-plan-activity-status",
+                            "code": "not-started",
+                            "display": "Planned"
                           }
                         }
                       ]

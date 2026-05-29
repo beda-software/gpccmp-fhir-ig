@@ -38,7 +38,13 @@ Reference to draft CodeSystem https://gpccmp.csiro.au/ig/CodeSystem/LaunchContex
 Reference to draft ValueSet https://gpccmp.csiro.au/ig/ValueSet/pulse-rhythm-1%
 Reference to draft CodeSystem http://hl7.org/fhir/CodeSystem/medication-statement-status|4.0.1
 Reference to draft CodeSystem http://hl7.org/fhir/appointmentstatus|4.0.1
-Reference to draft CodeSystem http://hl7.org/fhir/resource-status|4.0.1
+Reference to draft CodeSystem http://terminology.hl7.org/CodeSystem/condition-clinical|4.0.1
+Reference to draft CodeSystem http://terminology.hl7.org/CodeSystem/allergyintolerance-clinical|4.0.1
+Reference to draft CodeSystem http://hl7.org/fhir/care-plan-activity-status|4.0.1
+Reference to draft CodeSystem http://hl7.org/fhir/questionnaire-display-category|4.0.1
+Reference to draft CodeSystem http://hl7.org/fhir/questionnaire-item-control|4.0.1
+Reference to draft CodeSystem http://terminology.hl7.org/CodeSystem/observation-category|4.0.1
+Reference to draft CodeSystem http://terminology.hl7.org/CodeSystem/v3-ActCode|2018-08-12
 
 # INFORMATION 10: Terminology validation not performed. Nothing can be done about this.
 The concepts in the value set include have not been validated because the terminology server https://tx.hl7.org.au/fhir does not support batch validation (tests version < 1.7.8)
@@ -50,11 +56,8 @@ This element does not match any known slice defined in the profile http://hl7.or
 Cannot validate string answer option because no option list is provided
 
 # INFORMATION 13: ValueSet display names intentional different from CodeSystem displays. CodeSystem supplement used to define alternative displays.
-Wrong Display Name 'in progress' for http://hl7.org/fhir/resource-status#active. Valid display is 'active' (for the language(s) 'en, en-US'). Note that the display in the ValueSet does not have to match; this check exists to help check that it's not accidentally the wrong code
-Wrong Display Name 'on hold' for http://hl7.org/fhir/resource-status#suspended. Valid display is 'suspended' (for the language(s) 'en, en-US'). Note that the display in the ValueSet does not have to match; this check exists to help check that it's not accidentally the wrong code
-Wrong Display Name 'completed' for http://hl7.org/fhir/resource-status#complete. Valid display is 'complete' (for the language(s) 'en, en-US'). Note that the display in the ValueSet does not have to match; this check exists to help check that it's not accidentally the wrong code
-Wrong Display Name 'stopped' for http://hl7.org/fhir/resource-status#failed. Valid display is 'failed' (for the language(s) 'en, en-US'). Note that the display in the ValueSet does not have to match; this check exists to help check that it's not accidentally the wrong code
-Wrong Display Name 'not done' for http://hl7.org/fhir/resource-status#abandoned. Valid display is 'abandoned' (for the language(s) 'en, en-US'). Note that the display in the ValueSet does not have to match; this check exists to help check that it's not accidentally the wrong code
+Wrong Display Name 'Planned' for http://hl7.org/fhir/care-plan-activity-status#not-started. Valid display is 'Not Started' (for the language(s) 'en, en-US'). Note that the display in the ValueSet does not have to match; this check exists to help check that it's not accidentally the wrong code
+
 
 # WARNING 01: No definition found for expansion identifiers. Value set expansion identifier is a UUID as a URL obtained either from an expansion request on a terminology server or from the expansions pack in a previous output and do not have a definition.
 No definition could be found for URL value 'urn:uuid:% 
@@ -117,3 +120,7 @@ Item has answer, even though it is not enabled (item id =%
 
 # ERROR 04: Invalid error. hl7.fhir.uv.smart-app-launch#2.2.0 package has inherited dependency on an old extension package hl7.fhir.uv.extensions.r4#1.0.0 that contains an invariant bug. The extension reported on should be used on display items but the invariant evaluates as false for display items.
 The extension http://hl7.org/fhir/StructureDefinition/questionnaire-displayCategory v4.0.1 is not allowed to be used at this point (based on context invariant 'type!='display'')
+
+# ERROR 05: CodeSystem supplements are not being considered during validation. Display names are correct per supplement and codes in supplement match the original CodeSystem.
+Wrong Display Name 'Planned' for http://hl7.org/fhir/care-plan-activity-status#not-started. Valid display is 'Not Started' (for the language(s) 'en-US')
+The code 'not-started' in the system 'http://hl7.org/fhir/care-plan-activity-status' is not in the options value set (Actions Status) specified by the questionnaire. Terminology Error: Wrong Display Name 'Planned' for http://hl7.org/fhir/care-plan-activity-status#not-started. Valid display is 'Not Started' (for the language(s) '--')
