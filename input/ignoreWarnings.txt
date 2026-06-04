@@ -32,7 +32,7 @@ The extension http://hl7.org/fhir/StructureDefinition/regex|5.3.0-ballot-tc1 is 
 Wrong Display Name 'Pending' for http://terminology.hl7.org/CodeSystem/v2-0532#NAV. Valid display is 'temporarily unavailable' (en) (for the language(s) 'en, en-US'). Note that the display in the ValueSet does not have to match; this check exists to help check that it's not accidentally the wrong code
 Wrong Display Name 'withdrawn' for http://hl7.org/fhir/goal-status#cancelled. Valid display is 'Cancelled' (for the language(s) 'en, en-US'). Note that the display in the ValueSet does not have to match; this check exists to help check that it's not accidentally the wrong code
 
-# INFORMATION 09: Reference to draft resources intentional
+# INFORMATION 09: Reference to draft resources noted and accepted
 Reference to draft CodeSystem http://hl7.org/fhir/goal-status|4.0.1
 Reference to draft CodeSystem https://gpccmp.csiro.au/ig/CodeSystem/LaunchContextExtended%
 Reference to draft ValueSet https://gpccmp.csiro.au/ig/ValueSet/pulse-rhythm-1%
@@ -42,9 +42,9 @@ Reference to draft CodeSystem http://terminology.hl7.org/CodeSystem/condition-cl
 Reference to draft CodeSystem http://terminology.hl7.org/CodeSystem/allergyintolerance-clinical|4.0.1
 Reference to draft CodeSystem http://hl7.org/fhir/care-plan-activity-status|4.0.1
 Reference to draft CodeSystem http://hl7.org/fhir/questionnaire-display-category|4.0.1
-Reference to draft CodeSystem http://hl7.org/fhir/questionnaire-item-control|4.0.1
 Reference to draft CodeSystem http://terminology.hl7.org/CodeSystem/observation-category|4.0.1
 Reference to draft CodeSystem http://terminology.hl7.org/CodeSystem/v3-ActCode|2018-08-12
+Reference to draft CodeSystem http://hl7.org/fhir/questionnaire-item-control|4.0.1
 
 # INFORMATION 10: Terminology validation not performed. Nothing can be done about this.
 The concepts in the value set include have not been validated because the terminology server https://tx.hl7.org.au/fhir does not support batch validation (tests version < 1.7.8)
